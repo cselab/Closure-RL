@@ -1,5 +1,16 @@
 # Closure Discovery for Coarse-Grained Partial Differential Equations Using Grid-based Reinforcement Learning
 
+If this code is relevant for your research, please consider citing:
+```
+@inproceedings{
+vonbassewitz2025ClosureRL,
+title={Closure Discovery for Coarse-Grained Partial Differential Equations Using Grid-based Reinforcement Learnin},
+author={Jan-Philipp von Bassewitz, Sebastian Kaltenbach and Petros Koumoutsakos},
+booktitle={Conference on Parsimony and Learning (CPAL)},
+year={2025}
+}
+```
+
 ## Description
 This is the official PyTorch/tianshou implementation of the paper *Closure Discovery for Coarse-Grained Partial Differential Equations Using Grid-based Reinforcement Learning*.
 
