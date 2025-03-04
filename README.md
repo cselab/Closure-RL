@@ -15,7 +15,7 @@ year={2025}
 This is the official PyTorch/tianshou implementation of the paper *Closure Discovery for Coarse-Grained Partial Differential Equations Using Grid-based Reinforcement Learning*.
 
 <p align="center">
-    <img src="./results/figures/CNN_MARL_graphic.drawio.png" alt="Visualization of the algorithm." width="480">
+    <img src="./results/figures/SMARL_final.drawio.png" alt="Visualization of the algorithm." width="480">
 </p>
 <p align="center">
     <img src="./results/figures/advection/mnist_train_illustration.png" alt="Example graphic of a simulation" width="480">
