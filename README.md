@@ -1,18 +1,8 @@
 # Closure Discovery for Coarse-Grained Partial Differential Equations Using Grid-based Reinforcement Learning
-
-If this code is relevant for your research, please consider citing:
-```
-@inproceedings{
-vonbassewitz2025ClosureRL,
-title={Closure Discovery for Coarse-Grained Partial Differential Equations Using Grid-based Reinforcement Learning},
-author={Jan-Philipp von Bassewitz, Sebastian Kaltenbach and Petros Koumoutsakos},
-booktitle={Conference on Parsimony and Learning (CPAL)},
-year={2025}
-}
-```
+[arXiv.org](https://arxiv.org/abs/2402.00972) | [Citation](#cite)
 
 ## Description
-This is the official PyTorch/tianshou implementation of the paper *Closure Discovery for Coarse-Grained Partial Differential Equations Using Grid-based Reinforcement Learning*.
+This is the official PyTorch/tianshou implementation of the paper *Closure Discovery for Coarse-Grained Partial Differential Equations Using Grid-based Reinforcement Learning (CPAL 2025, Oral)*.
 
 <p align="center">
     <img src="./results/figures/SMARL_final.drawio.png" alt="Visualization of the algorithm." width="480">
@@ -89,3 +79,16 @@ As running multiple simulations for the evaluations takes long, we provide the o
 ## Acknowledgements
 Inspiration, code snippets from:
 - [cszn/KARI: Image Restoration Toolbox](https://github.com/cszn/KAIR)
+
+# Cite
+If this code is relevant for your research, please consider citing:
+
+```bibtex
+@inproceedings{
+vonbassewitz2025ClosureRL,
+title={Closure Discovery for Coarse-Grained Partial Differential Equations Using Grid-based Reinforcement Learning},
+author={Jan-Philipp von Bassewitz, Sebastian Kaltenbach and Petros Koumoutsakos},
+booktitle={Conference on Parsimony and Learning (CPAL)},
+year={2025}
+}
+```
