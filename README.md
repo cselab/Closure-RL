@@ -1,5 +1,5 @@
 # Closure Discovery for Coarse-Grained Partial Differential Equations Using Grid-based Reinforcement Learning
-[arXiv.org](https://arxiv.org/abs/2402.00972) | [Citation](#cite)
+[OpenReview](https://openreview.net/forum?id=Pve4Pg0A1v#discussion) | [Citation](#cite)
 
 ## Description
 This is the official PyTorch/tianshou implementation of the paper *Closure Discovery for Coarse-Grained Partial Differential Equations Using Grid-based Reinforcement Learning (CPAL 2025, Oral)*.
